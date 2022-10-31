@@ -3,6 +3,7 @@ def main() -> None:
     høyde = 2.5
     luftmotstand_koeffisient = 0.07
     masse = 60 / 1000
+    volume = 1.2E-4
 
     startfart = 0
 
